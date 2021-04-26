@@ -15,3 +15,5 @@ Features :
 344:	Abortable Mixed Collections for G1
 
 346:	Promptly Return Unused Committed Memory from G1
+
+Resource : https://openjdk.java.net/projects/jdk/12/
