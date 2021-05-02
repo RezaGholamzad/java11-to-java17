@@ -6,7 +6,7 @@ Features :
 
 230:	Microbenchmark Suite
 
-+ learning resources : https://www.baeldung.com/java-microbenchmark-harness
++ helpful learning resources : https://www.baeldung.com/java-microbenchmark-harness
 
 325:	Switch Expressions (Preview)
 
