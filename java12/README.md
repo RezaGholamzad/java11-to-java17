@@ -12,6 +12,10 @@ Features :
 
 334:	JVM Constants API
 
++ crm2011:9797/View/Tools/EntityDirect.aspx?etc=10015&no=RFC-77368
++ https://www.baeldung.com/jvm-constant-pool
++ https://www.baeldung.com/java-string-constant-pool-heap-stack
+
 340:	One AArch64 Port, Not Two
 
 341:	Default CDS Archives
