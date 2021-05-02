@@ -1,10 +1,12 @@
+Resource : https://openjdk.java.net/projects/jdk/12/
+
 Features :
 
 189:	Shenandoah: A Low-Pause-Time Garbage Collector (Experimental)
 
 230:	Microbenchmark Suite
 
-      + https://www.baeldung.com/java-microbenchmark-harness
+      learning resource : https://www.baeldung.com/java-microbenchmark-harness
 
 325:	Switch Expressions (Preview)
 
@@ -17,5 +19,3 @@ Features :
 344:	Abortable Mixed Collections for G1
 
 346:	Promptly Return Unused Committed Memory from G1
-
-Resource : https://openjdk.java.net/projects/jdk/12/
