@@ -23,6 +23,9 @@ Features :
 
 341:	Default CDS Archives
 
++ https://www.ibm.com/docs/en/sdk-java-technology/7.1?topic=uc-class-data-sharing-2
++ https://docs.oracle.com/javase/8/docs/technotes/guides/vm/class-data-sharing.html
+
 344:	Abortable Mixed Collections for G1
 
 346:	Promptly Return Unused Committed Memory from G1
