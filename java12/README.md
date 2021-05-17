@@ -1,4 +1,8 @@
-Resource : https://openjdk.java.net/projects/jdk/12/
+Resource : 
+
++ https://openjdk.java.net/projects/jdk/12/
++ https://mkyong.com/java/what-is-new-in-java-12/
++ https://stackify.com/java-12-new-features-and-enhancements-developers-should-know/
 
 Features :
 
